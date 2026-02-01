@@ -1,17 +1,13 @@
-# Node modules everywhere
 node_modules/
 
-# Server specifics
 server/.env
 server/uploads/
 
-# Mobile specifics
 mobile/.env
 mobile/android/app/build/
 mobile/android/.gradle/
 mobile/ios/Pods/
 mobile/.expo/
 
-# System files
 .DS_Store
 .vscode/
