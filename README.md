@@ -65,6 +65,7 @@ FocusFort is designed to keep users engaged **without sacrificing depth or rigor
 ## 📁 Project Structure
 
 ### Backend
+```
 focusfort-backend/
 ├── src/
 │ ├── config/
@@ -77,9 +78,10 @@ focusfort-backend/
 ├── .env
 ├── package.json
 └── README.md
-
+```
 
 ### Frontend
+```
 focusfort-app/
 ├── src/
 │ ├── screens/
@@ -92,7 +94,7 @@ focusfort-app/
 ├── app.json
 ├── package.json
 └── README.md
-
+```
 
 ---
 
