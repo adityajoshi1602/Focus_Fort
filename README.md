@@ -45,7 +45,7 @@ FocusFort is designed to keep users engaged **without sacrificing depth or rigor
 ## 🏗️ Tech Stack
 
 ### Frontend (Mobile)
-- React Native (Expo)
+- React Native
 - React Navigation v6
 - Axios
 - react-native-video
